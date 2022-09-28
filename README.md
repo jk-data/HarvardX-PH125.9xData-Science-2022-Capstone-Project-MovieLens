@@ -7,8 +7,8 @@ In this project we have developed several machine learning algorithms that predi
 
 This repository contains the following files.
 
-MovieLens_Project_Jyotirmay24092022_ Rmd.Rmd -> Project report in .rmd format
+MovieLens_Project_Jyotirmay27092022_ Rmd.Rmd -> Project report in .rmd format
 
-MovieLens_Project_Jyotirmay24092022.pdf -> Project report in .pdf format
+MovieLens_Project_Jyotirmay27092022.pdf -> Project report in .pdf format
 
-MovieLens_Project_Jyotirmay24092022_ RScript.R -> R-Script that generates the data analysis
+MovieLens_Project_Jyotirmay27092022_ RScript.R -> R-Script that generates the data analysis
